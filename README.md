@@ -12,27 +12,27 @@ Understanding your audience’s expertise level is crucial for effectively commu
 Tech Experts: Use precise technical terms and industry jargon without excessive explanation. They appreciate depth and specificity.
 Regular Folks: Avoid jargon or explain it in simple terms. Use everyday analogies to make concepts relatable.
 
-3. Depth of Detail:
+2. Depth of Detail:
    
 Tech Experts: Provide in-depth explanations, including technical specifications, code snippets, and advanced concepts. They expect a high level of detail.
 Regular Folks: Focus on key takeaways and practical implications. Too much detail can overwhelm them.
 
-5. Examples & Analogies:
+3. Examples & Analogies:
 
 Tech Experts: Use domain-specific examples, such as real-world applications of an algorithm or industry use cases.
 Regular Folks: Use relatable analogies (e.g., comparing RAM to a desk where you work vs. storage as a filing cabinet).
 
-7. Format & Presentation:
+4. Format & Presentation:
    
 Tech Experts: Can handle dense text, charts, and raw data. Prefer documentation, technical reports, or code examples.
 Regular Folks: Benefit from visual aids like infographics, step-by-step guides, and interactive demos.
 
-9. Assumed Prior Knowledge:
+5. Assumed Prior Knowledge:
 
 Tech Experts: Assume familiarity with foundational concepts, so you can skip the basics and dive straight into advanced topics.
 Regular Folks: Start with fundamental explanations before introducing complex ideas.
 
-11. Purpose & Engagement:
+6. Purpose & Engagement:
 
 Tech Experts: Engage them by discussing challenges, optimizations, and cutting-edge developments.
 Regular Folks: Keep it engaging with storytelling, real-world applications, and user-friendly solutions.
